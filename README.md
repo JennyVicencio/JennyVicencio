@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Jenny Vicencio
+## Jenny Vicencio
 
 <a href="https://www.linkedin.com/in/jennyfer-v-arce/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,7 +15,7 @@
 - 🐱‍👤🐾💜 Me gusta ver anime, leer manga, los perritos y últimamente el K-pop.
 - 👩 ISFP.
 
-### Stack
+### Stack:
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -36,10 +36,10 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/JennyVicencio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JennyVicencio&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JennyVicencio&theme=buefy&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JennyVicencio&theme=buefy&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JennyVicencio&theme=buefy&layout=compact" />
 </a>
 <br/>
